@@ -1,4 +1,4 @@
-Class fizzbuzz:
+class fizzbuzz:
 
   def fizz_buzz(number):
     my_fizz_buzz_list = []
