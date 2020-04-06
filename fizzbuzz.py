@@ -18,3 +18,5 @@ class fizzbuzz:
 
       for x in my_fizz_buzz_list:
         print(x)
+
+    fizzbuzz(23)
