@@ -14,7 +14,7 @@ class fizzbuzz:
         my_fizz_buzz_list.append("fizzbuzz")
 
       else:
-      my_fizz_buzz_list.append(i)
+          my_fizz_buzz_list.append(i)
 
       for x in my_fizz_buzz_list:
         print(x)
