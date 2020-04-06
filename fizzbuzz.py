@@ -13,7 +13,7 @@ class fizzbuzz:
       elif i % 3 == 0 and i % 5 == 0:
         my_fizz_buzz_list.append("fizzbuzz")
 
-     else:
+      else:
       my_fizz_buzz_list.append(i)
 
       for x in my_fizz_buzz_list:
